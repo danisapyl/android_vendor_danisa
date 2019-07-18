@@ -5,3 +5,7 @@
   <project name="danisapyl/android_vendor_danisa" path="vendor/danisa" remote="github" revision="master" />
   <project name="danisapyl/android_vendor_google_marlin" path="vendor/google/marlin" remote="github" revision="master" />
 </manifest>
+
+
+
+DO NOT USE LINEAGE TARGETS!!
