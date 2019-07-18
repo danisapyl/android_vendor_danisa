@@ -1,0 +1,7 @@
+?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="danisapyl/device_google_marlin" path="device/google/marlin" remote="github" revision="master" $
+  <project name="LineageOS/android_kernel_google_marlin" path="kernel/google/marlin" remote="github" />
+  <project name="danisapyl/android_vendor_danisa" path="vendor/danisa" remote="github" revision="master" />
+  
+</manifest>
